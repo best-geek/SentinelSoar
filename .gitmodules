@@ -1,0 +1,3 @@
+[submodule "SentinelSoarEngine"]
+	path = SentinelSoarEngine
+	url = git@github.com:best-geek/SentinelSoarEngine.git
